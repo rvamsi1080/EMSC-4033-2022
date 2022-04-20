@@ -2,6 +2,10 @@
 | --- | --- | --- |
 | Louis Moresi | u1076850 | [@lmoresi](http://github.com/lmoresi) |
 | Navid Constantinou | u1063801 | [@navidcy](http://github.com/navidcy) |
+| Holly Ma | u6986006 | [@hma211](http://github.com/hma211) |
+| Samuel Lewis | u6668899 | [@Samlewis99] (https://github.com/Samlewis99) |
+| Gwendolyn Withrow | u7189739 | @g-nym |
+| Edgar Leong | u6569949 | [@EdgarLJH](http://github.com/EdgarLJH) |
 | Samuel Lewis | u6668899 | [@Samlewis99](https://github.com/Samlewis99) |
 | Holly Ma | u6986006 | [@hma211](http://github.com/hma211) |
 | Lachlan Dodd  | u6381281 | lachlan13893 |
