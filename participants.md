@@ -8,4 +8,5 @@
 | Samuel Lewis | u6668899 | [@Samlewis99] (https://github.com/Samlewis99) |
 | Gwendolyn Withrow | u7189739 | @g-nym |
 | Jiarun Zhou | u7382599 | [@JiarunZhou](https://github.com/JiarunZhou) |
+| Xulu Lin | u6989382 | [@XuluLin](https://github.com/XuluLin) |
 
