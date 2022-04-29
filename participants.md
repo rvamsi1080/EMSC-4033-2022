@@ -15,3 +15,4 @@
 | Xulu Lin | u6989382 | [@XuluLin](https://github.com/XuluLin) |
 | Rakshith Vamsi Ravichander | u7477538 | [@rvamsi1080](https://github.com/rvamsi1080) |
 | Ricky Sun | u6966168 | [@Lollypig](https://github.com/Lollypig) |
+| Emma Fitzgerald | ?? | @emma4033 |
